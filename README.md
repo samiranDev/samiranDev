@@ -1,6 +1,6 @@
-<h1 align="center">
-  <a href="https://github.com/SamiranRoy" target="_blank" style="text-decoration: none;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=4000&pause=500&color=FF6B6B&center=true&vCenter=true&width=450&lines=SAMIRAN+ROY;FULL+STACK+WEB+DEVELOPER" alt="Typing Animation">
+<h1 align="center" style="color: #00FF00; background-color: #000000; font-family: 'Courier New', Courier, monospace;">
+  <a href="https://github.com/SamiranRoy" target="_blank" style="text-decoration: none; color: #00FF00;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=30&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=450&lines=SAMIRAN+ROY;FULL+STACK+WEB+DEVELOPER" alt="Typing Animation">
   </a>
 </h1>
 
